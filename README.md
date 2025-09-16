@@ -1,4 +1,6 @@
-<img style="text-align: center;" alt="image" src="https://github.com/user-attachments/assets/4eb096c7-f4b5-47c5-9c01-f60b8248c16c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4eb096c7-f4b5-47c5-9c01-f60b8248c16c" alt="image" />
+</p>
 <h1 align="center">Hi 👋, I'm Hemanth Kumar Pentakota</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 <img align="right" height="300" width="400" src="https://tse2.mm.bing.net/th/id/OIP.kHAyTN_AfGjWDu0MOed1cwHaEK?pid=Api&P=0&h=180">
