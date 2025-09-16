@@ -1,3 +1,4 @@
+<img width="824" height="612" alt="image" src="https://github.com/user-attachments/assets/9d7381bb-2c4a-4e80-b6a7-1cb09a93301a" /><img src="">
 <h1 align="center">Hi 👋, I'm Hemanth Kumar Pentakota</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 <img align="center" width="400" src="https://tse2.mm.bing.net/th/id/OIP.kHAyTN_AfGjWDu0MOed1cwHaEK?pid=Api&P=0&h=180">
